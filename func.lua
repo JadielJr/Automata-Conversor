@@ -30,7 +30,7 @@ function readfile(name)
     return a
 end
 --[[
-    convert a string to an array where every index matches onde character
+    Convert a string to an array where every index matches onde character
 ]]
 function strtoarray(str)
     local arr = {}
