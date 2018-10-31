@@ -77,7 +77,7 @@ end
 
 
 --[[
-	function automata.getD()
+	Function automata.getD()
 	Used to get delta of the automaton. It returns a 3-dimensions table
 	{
 		q1 	= {
