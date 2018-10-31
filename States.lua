@@ -1,7 +1,7 @@
 State = {}
 
 --[[
-    function State.new(id)
+    Function State.new(id)
     Instantiates a new State object, with the id passed as argument.
 ]]
 function State.new(id)
